@@ -1,0 +1,246 @@
+
+body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: black;
+        }
+        header {
+            background: url(https://i.gifer.com/D4Ll.gif)  no-repeat center center;
+            color: white;
+            padding: 20px 25px ;
+            text-align: center;
+            background-color: #121d2c;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        nav {
+            background-color: #050524;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 1.2em;
+            border-radius: 35px;
+            background-color: orangered;
+
+        }
+        nav a:hover{
+           background-color:#0d193d;
+           padding: 9px 15px;
+           widht: 52px;
+           box-shadow: 0 4px 4px 4px #256b10;
+           transition: 0.5s;
+        }
+        .hero {
+            background: url(https://i.gifer.com/9LJ3.gif) no-repeat center center;
+            background-size: cover;
+            height: 600px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            text-align: center;
+        }
+
+        .hero h2 {
+            font-size: 3em;
+            background-color: rgba(0, 0, 0, 0.6);
+            padding: 10px 20px;
+        }
+        section {
+            padding: 40px 20px;
+            text-align: center;
+            color:white;
+
+        }
+        section h3 {
+            font-size: 2em;
+            margin-bottom: 20px;
+            color:white;
+        }
+        section p {
+            font-size: 1.2em;
+            margin-bottom: 20px;
+            color:white;
+        }
+        footer {
+            background-color: #004aad;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+            margin-top: 20px;
+        }
+        nav a:hover{
+            transition: 5s;
+            background-color: blue;
+        }
+        .services{
+           border-radius: 40px;
+           float: left;
+           display: flex;
+        }
+      .services1{
+           border-radius: 40px;
+           float: right;
+           display: flex;
+        }
+        .strahovka{
+            background-color: rgba(33, 32, 32, 0.914);
+            border-radius: 40px;
+            width: 400px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        .strahovka a{
+            background-color: #c26b0e;
+            border-radius: 40px;
+            font-size: 20px;
+            text-decoration: none;
+            color: white;
+        }
+        .strahovka a:hover{
+            color: #83e6dd;
+            background-color: #d48d24;
+            transition: 0.5s;
+            font-size: 23px;
+        }
+        header a{
+            background-color:#d48d24;
+            color:white;
+            border-radius:45px;
+            font-size: 18px;
+            text-decoration: none;
+        }
+       .custom-header {
+        text-align: center;
+        color: white;
+         background-color: #2a8ad4;
+        font-size: 15px;
+        border-radius: 23px;
+        padding: 10px 20px;
+        display: inline-block;
+         margin: 20px auto;
+             display: flex;
+            justify-content: center;
+         align-items: center;
+        width: fit-content;
+         margin: 0 auto;
+
+    }
+
+        .tarif{
+            background-color: #e06d14;
+            color: white;
+            border-radius:45px;
+            width: 200px;
+            padding: 15px;
+            margin: 0 auto;
+            text-align:center;
+
+
+        }
+        .tarif:hover{
+            box-shadow: 0 6px 9px 5px navy;
+            padding: 20px;
+            margin: 20px auto;
+            transition: 2s;
+            color: #97dff0;
+        }
+
+       h10{
+             font-size: 25px;
+       }
+       .tarif2{
+             background-color: #e06d14;
+            color: white;
+            border-radius:45px;
+            width: 200px;
+            padding: 10px;
+            margin: 0 auto;
+            text-align:center;
+
+
+       }
+        .tarif2:hover{
+            box-shadow: 0 6px 9px 5px navy;
+            padding: 20px;
+            margin: 20px auto;
+            transition: 2s;
+            color: #97dff0;
+        }
+        h12{
+             font-size: 25px;
+       }
+       .tarif a{
+            text-decoration: none;
+            background-color:#818e91;
+            white:20px;
+            margin: 0 auto;
+       }
+       .tarif3{
+             background-color: #e06d14;
+            color: white;
+            border-radius:45px;
+            width: 200px;
+            padding: 10px;
+            margin: 0 auto;
+            text-align:center;
+
+
+       }
+       .tarif3:hover{
+            box-shadow: 0 6px 9px 5px navy;
+            padding: 20px;
+            margin: 20px auto;
+            transition: 2s;
+            color: #97dff0;
+        }
+        .oformlenye1{
+            text-decoration: none;
+            background-color: #5c574b;
+            border-radius: 25px;
+            color: white;
+        }
+        .stahovka993{
+            background-color:#e06d14;
+            border-radius: 35px;
+            margin: 0px auto;
+            padding: 25px;
+            width: 200px;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        h16{
+            text-align: center;
+            background-color: #5c574b;
+            color: white;
+            border-radius: 32px;
+        }
+       .img993 {
+            width: 200px;
+            margin: 10px 0;
+        }
+        .oformleny697{
+            background-color:#f0b324;
+            text-decoration: none;
+            border-radius: 35px;
+            color:white;
+        }
+        .main2{
+             background-color: #2d374d;
+        }
+        
+        .mongolya{
+           background-color: #4103fc;
+           border-radius: 34px;
+           font-size: 15px;
+        }
