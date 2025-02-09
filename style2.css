@@ -1,0 +1,119 @@
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: black;
+        }
+        header {
+            background: url(https://i.gifer.com/D4Ll.gif)  no-repeat center center;
+            color: white;
+            padding: 20px 25px ;
+            text-align: center;
+            background-color: #121d2c;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+      header a{
+            background-color:#d48d24;
+            color:white;
+            border-radius:45px;
+            font-size: 18px;
+            text-decoration: none;
+        }
+
+       .custom-header {
+        text-align: center;
+        color: white;
+         background-color: #2a8ad4;
+        font-size: 15px;
+        border-radius: 23px;
+        padding: 10px 20px;
+        display: inline-block;
+         margin: 20px auto;
+             display: flex;
+            justify-content: center;
+         align-items: center;
+        width: fit-content;
+         margin: 0 auto;
+
+    }
+        .oformlynyr93{
+           text-align: center;
+            background-color: #c97118;
+            border-radius: 35px;
+            color: white;
+            width: 300px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+
+        .images-container {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            background-color: #0c0b42;
+            padding: 10px;
+            border-radius: 10px;
+            color:white;
+        }
+
+        .images-container img {
+            max-width: 40px;
+            height: auto;
+            border-radius: 5px;
+        }
+
+         .gold_axe8 {
+              background-color: #1836c9;
+              color: white;
+              padding: 10px;
+              border-radius: 5px;
+              font-size: 18px;
+         }
+          .images-container a {
+            text-decoration: none;
+        }
+        .images-container img:hover {
+            transform: scale(1.1);
+            transition: 5s;
+            background-color:#064f08;
+        }
+        h2{
+            background: url(https://i.gifer.com/9LJ3.gif) no-repeat;
+            opacity: 0.5;
+            color:white;
+            width: 150px;
+            height:150px;
+            margin: 20px;
+        }
+        .oplata{
+            color:white;
+            background-color:#464d46;
+            opacity: 0.5;
+            border-radius:35px;
+
+
+        }
+         .oplata:hover{
+            opacity: 1;
+            background-color:#557876;
+            transition:2s;
+             transform: scale(1.1);
+         }
+         .oplatyt3{
+             color:white;
+             background-color:#8c5f27;
+             opacity: 0.5;
+             border-radius:35px;
+
+         }
+         .oplatyt3:hover{
+             transition:2s;
+             transform: scale(1.1);
+             background-color:#e3a04d;
+             opacity:1;
+
+
+         }
